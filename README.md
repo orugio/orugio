@@ -1,12 +1,15 @@
 <p align="center"><img src="https://i.imgur.com/6uYOMy6.png" width="300" title="hover text"></p>
 <p align="center">
-  my name is alec
+  my name is solace
 </p>
 <p align="center">
   usually under spawn with friends
   </p>
 <p align="center">
-  doodle for doodle on strawpage?
+  witch hat atelier + ffxiv + rabbit&steel enjoyer
+  </p>
+  <p align="center">
+  kamome shirahama glazer since day 1 baby
   </p>
   
 <p align="center"><img src="https://i.imgur.com/8AtrVMA.png" width="290" title="hover text"></p>
@@ -53,7 +56,7 @@
   ✗ roleplay ✗
   </p>
 <p align="center">
-  ✗ supporter requests ✗
+  ✗ supporter requests (when i have it) ✗
   </p>
 
   <p align="center">please just be respectful and kind to everypony ^^</p>
