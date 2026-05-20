@@ -9,7 +9,7 @@
   witch hat atelier + ffxiv + rabbit&steel enjoyer
   </p>
   <p align="center">
-  kamome shirahama glazer since day 1 baby
+  kamome shirahama glazer · caught up on manga
   </p>
   
 <p align="center"><img src="https://i.imgur.com/8AtrVMA.png" width="290" title="hover text"></p>
