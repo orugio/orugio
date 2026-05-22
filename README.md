@@ -20,7 +20,7 @@
 <p align="center"><img src="https://i.imgur.com/wVxbt6D.png" width="500" title="hover text"></p>
 
 <p align="center">
-  26 ⋆ sys ⋆ fictionkin ⋆ yume
+  26 ⋆ sys host ⋆ fictionkin ⋆ yume
   </p>
 <p align="center">
   infj ⋆ 2w1 ⋆ romani-canadian
@@ -40,7 +40,7 @@
 <p align="center"><img src="https://i.imgur.com/2eNMHkR.png" width="170" title="hover text"></p>
 <p align="center"><img src="https://64.media.tumblr.com/400fce6109c70be0fadde808b88e7123/d5789b8c4cc33c7b-bb/s500x750/707877a9eb180b2f91f1ac08b8fb2eab386a12aa.pnj" width="500" title="hover text"></p>
 
-<p align="center"> i usually sitting my beloved husband rae !</p>
+<p align="center"> i'm usually sitting my beloved husband rae !</p>
 
 <p align="center">together ♡ 5.19.23 | 06.11.25 ♡ married</p>
 
