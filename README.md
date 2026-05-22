@@ -1,7 +1,7 @@
-<p align="center"><img src="https://i.imgur.com/TiAzXtS.png" width="150" title="hover text"></p>
+<p align="center"><img src="https://i.imgur.com/ka6H0oW.png" width="170" title="hover text"></p>
 <p align="center"><img src="https://64.media.tumblr.com/400fce6109c70be0fadde808b88e7123/d5789b8c4cc33c7b-bb/s500x750/707877a9eb180b2f91f1ac08b8fb2eab386a12aa.pnj" width="500" title="hover text"></p>
 <p align="center">
-  solace / sol ⋆ he / him
+  hi, i'm miles ⋆ he / him
 </p>
 <p align="center">
   lower spawn dweller ⋆ c+h welcome !
