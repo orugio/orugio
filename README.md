@@ -63,6 +63,9 @@
 <p align="center">
   🗸 friend requests 🗸
   </p>
+  <p align="center">
+  ✗ supporter requests ✗
+  </p>
 <p align="center">
   ✗ romance / flirting ✗
   </p>
